@@ -14,3 +14,5 @@ https://www.instructables.com/Arduino-MIDI-Drums/
   <img src="https://github.com/yashas-hm/Arduino-MIDI-Drums/blob/master/images/4.png"/><br>
   <img src="https://github.com/yashas-hm/Arduino-MIDI-Drums/blob/master/images/1.jpg"/><br>
 </p>
+
+## Author: [yashas-hm](https://github.com/yashas-hm)
